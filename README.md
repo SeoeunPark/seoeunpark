@@ -3,10 +3,10 @@ Hi I'm seoeun! 👋
 I am a high school student who dreams of becoming a developer.
 
 ### Interest
-Frond-end : HTML,CSS,JavaScript,BootStrap <br>
-Back-end : JAVA,Python,C,JSP <br>
-Database : SQL,MySQL,ORACLE,ROOM <br>
-Reading,Writing,Travel,Guitar,Piano <br>
+<b>Frond-end</b> : HTML,CSS,JavaScript,BootStrap <br>
+<b>Back-end</b> : JAVA,Python,C,JSP <br>
+<b>Database</b> : SQL,MySQL,ORACLE,ROOM <br>
+<b>Others</b> : Reading,Writing,Travel,Guitar,Piano <br>
 
 <!--
 **seoeunpark/seoeunpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
