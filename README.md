@@ -1,8 +1,7 @@
-### Seoeun<br>
-Hi I'm seoeun! 👋
+### Hi I'm seoeun! 👋
 I am a high school student who dreams of becoming a developer.
 
-### Interest
+### Interest🧡
 <b>Frond-end</b> : HTML,CSS,JavaScript,BootStrap <br>
 <b>Back-end</b> : JAVA,Python,C,JSP <br>
 <b>Database</b> : SQL,MySQL,ORACLE,ROOM <br>
