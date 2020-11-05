@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 ![seoeun's github stats](https://github-readme-stats.vercel.app/api?username=seoeunpark&theme=cobalt&show_icons=true)
 <a href="https://instagram.com/_p.sun">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&link=https://instagram.com/_p.sun/"
+<br>
+<img src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&link=https://instagram.com/_p.sun/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<img src="http://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&link=https://medium.com/@seoeun.park"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
