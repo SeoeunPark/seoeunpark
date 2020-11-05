@@ -3,10 +3,10 @@ Hi I'm seoeun! 👋
 I am a high school student who dreams of becoming a developer.
 
 ### Interest
-1️⃣ Frond-end : HTML,CSS,JavaScript,BootStrap
-2️⃣ Back-end : JAVA,Python,C,JSP
-3️⃣ Database : SQL,MySQL,ORACLE,ROOM
-4️⃣ Reading,Writing,Travel,Guitar,Piano
+1️⃣ Frond-end : HTML,CSS,JavaScript,BootStrap <br>
+2️⃣ Back-end : JAVA,Python,C,JSP <br>
+3️⃣ Database : SQL,MySQL,ORACLE,ROOM <br>
+4️⃣ Reading,Writing,Travel,Guitar,Piano <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoeunpark%2Fhit-counter&count_bg=%23F7786B&title_bg=%23555555&icon=&icon_color=%23F7786B&title=hits&edge_flat=false"/></a>
 
 <!--
