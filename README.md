@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![seoeun's github stats](https://github-readme-stats.vercel.app/api?username=seoeunpark&theme=cobalt&show_icons=true)
+<a href="https://instagram.com/_p.sun">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&link=https://instagram.com/_p.sun/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
