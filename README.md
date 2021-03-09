@@ -1,7 +1,7 @@
 ### Hi I'm seoeun! 👋
 
 ### Interest🧡
-<b>Frond-end</b> : HTML,CSS,JavaScript,BootStrap <br>
+<b>Frond-end</b> : HTML,CSS,JavaScript,BootStrap,django <br>
 <b>Back-end</b> : JAVA,Python,C,JSP,SPRING <br>
 <b>Database</b> : SQL,MySQL,ORACLE,ROOM <br>
 
