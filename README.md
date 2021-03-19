@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&link=https://instagram.com/_p.sun/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+![seoeun's github stats](https://github-readme-stats.vercel.app/api?username=seoeunpark&show_icons=true&custom_title=seoeun's%20github%20stats%20🤍&title_color=1a237e&text_color=3f51b5&icon_color=01579b&line_height=20)<br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoeunpark&layout=compact&card_width=445&title_color=1a237e&custom_title=most%20used%20languages%20🤍)
+
 <!--
 <a href="https://medium.com/@seoeun.park">
 <img src="http://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&link=https://medium.com/@seoeun.park"
