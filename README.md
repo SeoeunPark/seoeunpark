@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <br>
 
 
-![Seoeun's github stats](https://github-readme-stats.vercel.app/api?username=seoeunpark&show_icons=true&theme=cobalt)
+![Seoeun's github stats](https://github-readme-stats.vercel.app/api?username=seoeunpark&show_icons=true&theme=dracula)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoeunpark&layout=compact&card_width=445&title_color=1a237e&custom_title=most%20used%20languages%20&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoeunpark&layout=compact&card_width=445&custom_title=most%20used%20languages%20&show_icons=true&theme=dracula)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoeunpark%2Fhit-counter&count_bg=%23E683D9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
