@@ -1,10 +1,10 @@
 ### Hi I'm seoeun! 👋
-
+<!--
 ### Interest🧡
 <b>Frond-end</b> : HTML,CSS,JavaScript,BootStrap,django <br>
 <b>Back-end</b> : JAVA,Python,C,JSP,SPRING <br>
 <b>Database</b> : SQL,MySQL,ORACLE,ROOM,Firebase <br>
-
+-->
 <!--
 **seoeunpark/seoeunpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
